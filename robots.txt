@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-zc544s.salamkita.sbs/sitemap.xml
